@@ -1,0 +1,8 @@
+name: Flight
+version: 1.0-SNAPSHOT
+main: com.volmit.aprilfools.flight.Flight
+api-version: 1.16
+prefix: [ Flight ]
+authors: [ relavis ]
+description: See the world at a new height.
+website: https://www.volmit.com
